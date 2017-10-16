@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" path="src/test/resources"/>
+	<classpathentry kind="src" path="testData"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/client-combined-3.5.3-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/JavaBindings/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

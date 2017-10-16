@@ -1,0 +1,4 @@
+baseUrl: http://stagingv3.chatterspot.com
+DashboardValidation: Dashboard
+resultPage:
+  resultText: results
